@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 
 ## Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/stroke-analysis.git
 
 

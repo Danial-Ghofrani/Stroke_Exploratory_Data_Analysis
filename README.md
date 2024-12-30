@@ -32,12 +32,12 @@ This project serves as a foundation for future **machine learning** applications
 
 ## 🚀 Getting Started  
 
-### Prerequisites  
+### Prerequisites and Running the Project
+
 Ensure you have Python installed along with the required libraries. You can install dependencies with:  
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
-# Running the Project
 
 ## Clone the Repository
 ```bash

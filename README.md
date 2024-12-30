@@ -30,21 +30,6 @@ This project serves as a foundation for future **machine learning** applications
 
 ---
 
-## 🚀 Getting Started  
-
-### Prerequisites and Running the Project
-
-Ensure you have Python installed along with the required libraries. You can install dependencies with:  
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-
-
-## Clone the Repository
-```bash
-git clone https://github.com/yourusername/stroke-analysis.git
-
-
-
 ## 🌟 Highlights
 - Processed and analyzed health-related features like BMI, glucose levels, and hypertension.
 - Performed statistical testing to confirm significant relationships between features.
@@ -64,4 +49,22 @@ git clone https://github.com/yourusername/stroke-analysis.git
 - Extend the project to include predictive modeling with machine learning algorithms.
 - Explore advanced visualization techniques to communicate findings better.
 - Implement additional statistical methods to validate results.
+
+
+
+## 🚀 Getting Started  
+
+### Prerequisites and Running the Project
+
+Ensure you have Python installed along with the required libraries. You can install dependencies with:  
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
+
+
+## Clone the Repository
+```bash
+git clone https://github.com/yourusername/stroke-analysis.git
+
+
+
 

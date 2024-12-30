@@ -57,12 +57,6 @@ This project uses several visualizations, including:
 - **Histograms and Boxplots:** Examine feature distributions.
 - **Scatterplots and Pair Plots:** Visualize trends and feature interactions.
 
-### Example: Heatmap
-```python
-plt.figure(figsize=(10, 6))
-sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
-plt.title("Correlation Heatmap")
-plt.show()
 
 
 ## 🚀 Getting Started  

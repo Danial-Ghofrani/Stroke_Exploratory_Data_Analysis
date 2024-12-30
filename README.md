@@ -37,7 +37,7 @@ This project serves as a foundation for future **machine learning** applications
 
 ---
 
-## 🛠️ Libraries Used
+##  :closed_book: Libraries Used
 - **Python:** Core programming language for analysis.
 - **Pandas/Numpy:** Data manipulation and preprocessing.
 - **Matplotlib/Seaborn:** Visualization libraries for data insights.

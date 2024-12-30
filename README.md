@@ -50,6 +50,19 @@ This project serves as a foundation for future **machine learning** applications
 - Explore advanced visualization techniques to communicate findings better.
 - Implement additional statistical methods to validate results.
 
+## 📈 Visualizations
+This project uses several visualizations, including:
+
+- **Correlation Heatmaps:** Identify relationships between features.
+- **Histograms and Boxplots:** Examine feature distributions.
+- **Scatterplots and Pair Plots:** Visualize trends and feature interactions.
+
+### Example: Heatmap
+```python
+plt.figure(figsize=(10, 6))
+sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
+plt.title("Correlation Heatmap")
+plt.show()
 
 
 ## 🚀 Getting Started  

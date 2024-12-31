@@ -70,7 +70,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ## Clone the Repository
 
-git clone https://github.com/yourusername/stroke-analysis.git
+git clone https://github.com/Danial-Ghofrani/Stroke_Exploratory_Data_Analysis
+.git
 
 
 
